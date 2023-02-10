@@ -1,16 +1,4 @@
 # playstore_ui_screen_pr3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![7](https://user-images.githubusercontent.com/121867877/218080177-5d8d4968-978c-445b-91f6-e028fe9730cc.jpg)
+![8](https://user-images.githubusercontent.com/121867877/218080182-d88a933e-4197-4ca5-a8a6-8b9a0d077c9d.jpg)
+![6](https://user-images.githubusercontent.com/121867877/218080184-6b618c3e-3c03-4792-9619-57d17f6b8900.jpg)
